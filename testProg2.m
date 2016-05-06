@@ -1,3 +1,4 @@
+%This program shows a method of using PCA to align two 3D circles
 close all; clear all;
 
 % Read the data
